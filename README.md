@@ -35,9 +35,9 @@ The top-level `$meta` block holds locale metadata, not translations - the comple
 <!-- progress:start -->
 
 ```
-English                    ████████████████████████  100%  (529/529)  [en]
-Russian                    ████████████████████████  100%  (529/529)  [ru]
-Bobozhirskiy (PB dialect)  ████████████████████████  100%  (529/529)  [bz]
+English       ████████████████████████  100%  (529/529)  [en]
+Bobozhirskiy  ████████████████████████  100%  (529/529)  [bz]
+Russian       ████████████████████████  100%  (529/529)  [ru]
 ```
 
 <!-- progress:end -->

@@ -18,6 +18,7 @@ const BAR_WIDTH = 24;
 const LANGUAGE_NAMES: Record<string, string> = {
     ru: "Russian",
     en: "English",
+    bz: "Bobozhirskiy",
 };
 
 function textBar(fraction: number): string {
