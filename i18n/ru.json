@@ -465,7 +465,8 @@
         "a_minute_forward": "На минуту вперёд",
         "exact_time": "Точное время",
         "heatmap": "Тепловая карта",
-        "not_available_while_viewing_history": "Недоступно при просмотре истории"
+        "not_available_while_viewing_history": "Недоступно при просмотре истории",
+        "bypass_cooldown": "Обход тайминга постановки"
     },
     "tags": {
         "nobody_has_claimed_any_pixels_yet": "Пока никто не закрасил",

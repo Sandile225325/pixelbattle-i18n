@@ -464,7 +464,8 @@
         "a_minute_forward": "A minute forward",
         "exact_time": "Exact time",
         "heatmap": "Heatmap",
-        "not_available_while_viewing_history": "Not available while viewing history"
+        "not_available_while_viewing_history": "Not available while viewing history",
+        "bypass_cooldown": "Bypass placement cooldown"
     },
     "tags": {
         "nobody_has_claimed_any_pixels_yet": "Nobody has claimed any pixels yet",

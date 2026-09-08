@@ -34,8 +34,8 @@ The top-level `$meta` block holds locale metadata, not translations - the comple
 <!-- progress:start -->
 
 ```
-English  ████████████████████████  100%  (528/528)  [en]
-Russian  ████████████████████████  100%  (528/528)  [ru]
+English  ████████████████████████  100%  (529/529)  [en]
+Russian  ████████████████████████  100%  (529/529)  [ru]
 ```
 
 <!-- progress:end -->
