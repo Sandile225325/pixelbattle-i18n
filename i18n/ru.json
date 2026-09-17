@@ -468,6 +468,7 @@
         "a_minute_forward": "На минуту вперёд",
         "exact_time": "Точное время",
         "heatmap": "Тепловая карта",
+        "grid": "Сетка",
         "not_available_while_viewing_history": "Недоступно при просмотре истории",
         "bypass_cooldown": "Обход тайминга постановки"
     },
