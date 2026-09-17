@@ -467,6 +467,7 @@
         "a_minute_forward": "A minute forward",
         "exact_time": "Exact time",
         "heatmap": "Heatmap",
+        "grid": "Grid",
         "not_available_while_viewing_history": "Not available while viewing history",
         "bypass_cooldown": "Bypass placement cooldown"
     },
