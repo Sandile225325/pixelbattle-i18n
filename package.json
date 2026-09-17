@@ -6,7 +6,8 @@
         "test": "node scripts/check-locales.ts",
         "typecheck": "tsc --noEmit",
         "readme": "node scripts/update-readme.ts",
-        "notify": "node scripts/notify-maintainers.ts"
+        "notify": "node scripts/notify-maintainers.ts",
+        "grant-access": "node scripts/grant-maintainer-access.ts"
     },
     "devDependencies": {
         "@types/node": "26.4.0",
