@@ -144,7 +144,6 @@ async function run() {
                     title,
                     body,
                     labels: [TRANSLATION_LABEL.name, label.name],
-                    assignees: meta.maintainers,
                 }),
             });
             const { number } = (await created.json()) as { number: number };
@@ -165,7 +164,6 @@ async function run() {
                 title,
                 body,
                 state: "open",
-                assignees: meta.maintainers,
             }),
         });
         await api(`/issues/${issue.number}/comments`, {
