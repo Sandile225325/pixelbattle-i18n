@@ -163,6 +163,8 @@
         "account_banned_s": "Account banned (S)",
         "your_account_is_banned": "Your account is banned",
         "ban_changed_s": "The ban was changed (S)",
+        "the_canvas_isnt_accepting_pixels_s": "The canvas isn't accepting pixels (S)",
+        "the_season_isnt_running_right_now_try_again_later": "The season isn't running right now. Try again later",
         "authorization_required_s": "Authorization required (S)",
         "your_token_has_probably_expired": "Your token has probably expired",
         "you_are_not_signed_in_with_discord": "You are not signed in with Discord",

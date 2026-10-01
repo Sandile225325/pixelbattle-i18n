@@ -164,6 +164,8 @@
         "account_banned_s": "Аккаунт забанен (С)",
         "your_account_is_banned": "Ваш аккаунт забанен",
         "ban_changed_s": "Блокировка изменилась (С)",
+        "the_canvas_isnt_accepting_pixels_s": "Холст не принимает пиксели (С)",
+        "the_season_isnt_running_right_now_try_again_later": "Сезон сейчас не идёт. Попробуйте позже",
         "authorization_required_s": "Необходимо авторизоваться (С)",
         "your_token_has_probably_expired": "Вероятно, ваш токен истёк",
         "you_are_not_signed_in_with_discord": "Вы не вошли в дискорд аккаунт",
