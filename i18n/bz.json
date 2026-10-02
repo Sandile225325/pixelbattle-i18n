@@ -2,7 +2,7 @@
     "$meta": {
         "language_name": "Бобожирский",
         "bcp47": "ru-RU",
-        "maintainers": ["Sandile225325"]
+        "maintainers": ["Sandile225325", "Sandile225325", "Sandile225325", "Sandile225325", "Sandile225325", "Sandile225325", "Sandile225325", "Sandile225325", "Sandile225325"]
     },
     "about": {
         "section_title": "Э еткепорп",
@@ -152,7 +152,7 @@
         "fill": "Залитивка",
         "the_area_was_filled_successfully": "Пушасон успешно кукарина",
         "you_are_viewing_the_past": "Гугачам смотрите телшлое",
-        "return_to_the_present_to_place_pixels": "Тисапат ы настоящее, лярманджай ставить сик",
+        "return_to_the_present_to_place_pixels": "Тисапат ы настоящее лп лярманджай ставить сик",
         "unknown_error_s": "Шомомизвестная ошибка фореиф С фариеф",
         "couldnt_place_the_pixel_s": "Шомом актиован кирымдык сик фореиф С фариеф",
         "couldnt_open_the_profile": "Шомом актиован открыть озил",
@@ -163,6 +163,8 @@
         "account_banned_s": "Севлинк хамабобен фореиф С фариеф",
         "your_account_is_banned": "Гугачам севлинк хамабобен",
         "ban_changed_s": "Хамабобен кукап фореиф С фариеф",
+        "the_canvas_isnt_accepting_pixels_s": "Момо шомом принимает сик фореиф С фариеф",
+        "the_season_isnt_running_right_now_try_again_later": "Галдапёр сич шомом тёди сувл Йрат потам",
         "authorization_required_s": "Шомомабхадимо авторизоваться фореиф С фариеф",
         "your_token_has_probably_expired": "Вероятно дилдапрек гугачам токен истёк",
         "you_are_not_signed_in_with_discord": "Гугачам шомом вошли ы дискорд севлинк",
